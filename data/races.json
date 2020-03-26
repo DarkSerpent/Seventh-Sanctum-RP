@@ -2045,7 +2045,7 @@ var racedata = {
             "name": "Vespidan (Drone)",
             "source": "Seventh Sanctum RP",
             "size": "S",
-            "speed": "30",
+            "speed": "25",
             "climb": "20",
             "ability": "Dex 1, Int 1, Cha 1",
             "trait": [
@@ -2107,6 +2107,83 @@ var racedata = {
                   "name": "Gregarious",
                   "text": [
                      "You have proficiency in the Persuasion skill. Giant Wasps you Charm will actively protect and fight for you."
+                  ]
+               },
+               {
+                  "name": "Those Within the Monarchy",
+                  "text": [
+                     "Every Vespidian is born into a job, which is represented by their size, gender, and abilities. Choose a job from the following list: Drone, Worker, Queen."
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Vespidan (Worker)",
+            "source": "Seventh Sanctum RP",
+            "size": "S",
+            "speed": "25",
+            "climb": "20",
+            "ability": "Con 1, Wis 1, Cha 1",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "All Vespids reach maturity at 12, beyond this workers live about as long as 75 years, drones as long as 350 years, and workers that become queens can live as long as 750 years."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "Vespidan societies are invariably highly structured and caste-based. They are almost always strongly lawful and usually lawful neutral as the good of the hive supersedes all other concerns. The exception are the hive- broken who are still often lawful by upbringing, but can easily stray into any form of thinking from there."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Workers and Drones are small sized, while Queens are medium sized."
+                  ]
+               },
+               {
+                  "name": "Multiarmed",
+                  "text": [
+                     "All Vespids are born with 4 arms. Your two additional arms allow you to interact with an additional object or feature of the environment for free on your turn. You may not carry and use shields for defense with these additional arms. Nor do they grant you additional attacks, or allow you to wield weapons with them for combat."
+                  ]
+               },
+               {
+                  "name": "Flight",
+                  "text": [
+                     "As part of a move action, a Vespidan can instead fly 30 feet, but must end their movement on the ground or a solid surface. A Vespidan who ends its turn in the air immediately plummets to the ground. To use this speed you can't be wearing heavy armor or be encumbered."
+                  ]
+               },
+               {
+                  "name": "Carapace",
+                  "text": [
+                     "Your Carapace provides limited protection, and makes you accustomed to wearing armor. You can calculate your base AC as 11 + your Dexterity modifier while not wearing armor, and a shield’s benefits apply as normal while you use this AC. While wearing medium armor, your maximum Dexterity modifier bonus is increased by 1."
+                  ]
+               },
+               {
+                  "name": "Languages",
+                  "text": [
+                     "You can speak, read, and write Common and Elven."
+                  ]
+               },
+               {
+                  "name": "Swarm Tactics",
+                  "text": [
+                     "You have advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn’t incapacitated. You may only benefit from this trait once per turn."
+                  ]
+               },
+               {
+                  "name": "Sting",
+                  "text": [
+                     "Your sting is a natural weapon, which you can use to 4 make a unarmed strike with. If you hit with it, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. On a hit, you may choose to inject the target with your venom, after which you must spend a long rest before you can use your venom again.",
+                     "This venom causes the target to take 2d6 poison damage, and it must make a Constitution saving throw (DC: 10+ your Proficiency bonus+ your Strength modifier). On a failed save, it is also poisoned until the start of your next turn. The poison damage increases to 3d6 at 5th level. 4d6 at 10th level, 5d6 at 15th level, and 6d6 at 20th level."
+                  ]
+               },
+               {
+                  "name": "Talented Builder",
+                  "text": [
+                     "You have proficiency in one Tool of your choice. In addition, you learn new Tool proficiencies in half the normal amount of Downtime weeks, rounded down. This reduction is applied last, after any reduction you may receive from your Intelligence modifier."
                   ]
                },
                {
