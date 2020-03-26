@@ -2195,12 +2195,12 @@ var racedata = {
             ]
          },
          {
-            "name": "Vespidan (Worker)",
+            "name": "Vespidan (Queen)",
             "source": "Seventh Sanctum RP",
             "size": "S",
             "speed": "30",
             "climb": "20",
-            "ability": "Str1, Cha 1, choose Wis or Cha 1",
+            "ability": "Str 1, Cha 1, choose Wis or Cha 1",
             "trait": [
                {
                   "name": "Age",
