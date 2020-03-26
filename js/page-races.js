@@ -137,8 +137,14 @@ function userace (id) {
 	$("td#ability span").html(ability);
 
 	var speed = currace.speed;
-	$("td#speed span").html(speed+ "ft. ");
-	if (speed === "") $("td#speed").hide();
+    var climb = currace.climb;
+	if (climb === "0")
+     if (speed === "") $("td#speed").hide();
+     else
+	  $("td#speed span").html(speed+ " ft. ");
+    else
+	 $("td#speed span").html(speed+ " ft., climb "+climb+" ft.");
+
 
 	var traitlist = currace.trait;
 	$("tr.trait").remove();
