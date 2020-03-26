@@ -6,6 +6,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Dex 2, Str 1",
             "trait": [
                {
@@ -69,6 +70,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Con 1, Int 2",
             "trait": [
                {
@@ -219,6 +221,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Con 2, Cha 1",
             "trait": [
                {
@@ -300,6 +303,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Con 1, Str 1, Cha 1",
             "trait": [
                {
@@ -381,6 +385,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Con 1, Wis 2",
             "trait": [
                {
@@ -468,6 +473,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "20",
+            "climb": "0",
             "ability": "Str 2, Con 1",
             "trait": [
                {
@@ -525,6 +531,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "10",
             "ability": "Str 1, Con 1, Wis 1",
             "trait": [
                {
@@ -588,6 +595,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Dex 1, Con 1, Int 1",
             "trait": [
                {
@@ -651,6 +659,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "35",
+            "climb": "0",
             "ability": "Dex 2, choose Con or Int 1",
             "trait": [
                {
@@ -702,6 +711,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "S",
             "speed": "25",
+            "climb": "0",
             "ability": "Dex 1, Cha 2",
             "trait": [
                {
@@ -759,6 +769,7 @@ var racedata = {
             "source": "Orion: Stars of Waterdeep",
             "size": "M",
             "speed": "25",
+            "climb": "0",
             "ability": "Dex 2, Wis 1",
             "trait": [
                {
@@ -816,6 +827,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "Varies",
             "speed": "30",
+            "climb": "0",
             "ability": "Con 1, Cha 2",
             "trait": [
                {
@@ -903,6 +915,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "Varies",
             "speed": "30",
+            "climb": "0",
             "ability": "Int 1, Cha 2",
             "trait": [
                {
@@ -990,6 +1003,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "Varies",
             "speed": "30",
+            "climb": "0",
             "ability": "Wis 1, Cha 2",
             "trait": [
                {
@@ -1077,6 +1091,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "Varies",
             "speed": "30",
+            "climb": "0",
             "ability": "Dex 1, Cha 2",
             "trait": [
                {
@@ -1164,6 +1179,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "Medium",
             "speed": "30",
+            "climb": "0",
             "ability": "Str 1, Cha 2",
             "trait": [
                {
@@ -1252,6 +1268,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "Varies",
             "speed": "Varies ",
+            "climb": "0",
             "ability": "Con 1, Cha or Str 2",
             "trait": [
                {
@@ -1322,6 +1339,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "Varies",
             "speed": "Varies ",
+            "climb": "0",
             "ability": "Con 1, Dex or Int 2",
             "trait": [
                {
@@ -1391,6 +1409,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Int 2, Choose any other 1",
             "trait": [
                {
@@ -1442,6 +1461,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Con 2, Wis 1",
             "trait": [
                {
@@ -1499,6 +1519,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Con 1, Wis 2",
             "trait": [
                {
@@ -1550,6 +1571,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Wis 2, Choose any other 1",
             "trait": [
                {
@@ -1601,6 +1623,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "35",
+            "climb": "0",
             "ability": "Dex 2, Choose any other 1",
             "trait": [
                {
@@ -1652,6 +1675,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Str 1, Dex 1, Con 1, Int 1, Wis 1, Cha 1",
             "trait": [
                {
@@ -1691,6 +1715,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Str 2, Con 1, Int -2",
             "trait": [
                {
@@ -1754,6 +1779,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Con 1, Cha 2",
             "trait": [
                {
@@ -1835,6 +1861,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Int 1, Cha 2",
             "trait": [
                {
@@ -1928,6 +1955,7 @@ var racedata = {
             "source": "Seventh Sanctum RP",
             "size": "M",
             "speed": "30",
+            "climb": "0",
             "ability": "Str 1, Cha 2",
             "trait": [
                {
@@ -1946,6 +1974,97 @@ var racedata = {
                   "name": "Size",
                   "text": [
                      "Dhampirs are the same size and build as humans. Your size is medium."
+                  ]
+               },
+               {
+                  "name": "Superior Darkvision",
+                  "text": [
+                     "Thanks to your heritage, you have first-rate vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+                  ]
+               },
+               {
+                  "name": "Vampiric Ancestry",
+                  "text": [
+                     "You have advantage on saving throws against diseases and being Charmed."
+                  ]
+               },
+               {
+                  "name": "Undead Resistance",
+                  "text": [
+                     "You have resistance to necrotic damage."
+                  ]
+               },
+               {
+                  "name": "Fangs",
+                  "text": [
+                     "You have fangs like a vampire. They are a natural weapon, which you can use to make unarmed strikes. If you hit, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+                  ]
+               },
+               {
+                  "name": "Blood Drinker",
+                  "text": [
+                     "As an action, you can make a special attack with your fangs. If the attack hits, you deal necrotic damage instead of piercing damage, and you heal hit points (minimum of 1) equal to your Constitution modifier, and you can’t use this trait again until you finish a short or long rest."
+                  ]
+               },
+               {
+                  "name": "Languages",
+                  "text": [
+                     "You can speak, read, and write Common and another language of your choice."
+                  ]
+               },
+               {
+                  "name": "Sunlight Sensitivity",
+                  "text": [
+                     "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+                  ]
+               },
+               {
+                  "name": "Vermin Speech",
+                  "text": [
+                     "You can cast animal friendship an unlimited number of times with this trait, but you can target only bats, rats, and wolves with it. Charisma is your spellcasting ability for this spell."
+                  ]
+               },
+               {
+                  "name": "Shapechanger",
+                  "text": [
+                     "If you aren't in sunlight, you can use your action to cast polymorph on yourself to transform into a bat, rat, or wolf. When cast in this way, polymorph requires no components and cannot be dispelled. It has the following changes:",
+                     "• Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours.",
+                     "• You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.",
+                     "Once you use this ability, you can't do so again until you finish a short or long rest."
+                  ]
+               },
+               {
+                  "name": "Kin of Mine",
+                  "text": [
+                     "Dhampir have a subrace dependent on the conditions of their birth. Choose one subrace from the following list: Dayborn, Nobleblood, Beastwalker."
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Vespidan (Drone)",
+            "source": "Seventh Sanctum RP",
+            "size": "S",
+            "speed": "30",
+            "climb": "20",
+            "ability": "Dex 1, Int 1, Cha 1",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "All Vespids reach maturity at 12, beyond this workers live about as long as 75 years, drones as long as 350 years, and workers that become queens can live as long as 750 years."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "Vespidan societies are invariably highly structured and caste-based. They are almost always strongly lawful and usually lawful neutral as the good of the hive supersedes all other concerns. The exception are the hive- broken who are still often lawful by upbringing, but can easily stray into any form of thinking from there."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Workers and Drones are small sized, while Queens are medium sized."
                   ]
                },
                {
