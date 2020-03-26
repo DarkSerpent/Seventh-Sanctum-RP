@@ -1386,6 +1386,58 @@ var racedata = {
                }
             ]
          },
+         {
+            "name": "Human (Mark of Ryder)",
+            "source": "Seventh Sanctum RP",
+            "size": "M",
+            "speed": "30",
+            "ability": "Int 2, Choose any other 1",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "Humans reach adulthood in their late teens and live less than a century."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "After receiving a Mark from Ryder, the Lesser Deity of the Forge, Humans tend to manifest a lawful nature, even under less than ideal nuturing conditions."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+                  ]
+               },
+               {
+                  "name": "Languages",
+                  "text": [
+                     "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on."
+                  ]
+               },
+               {
+                  "name": "Artisan's Intuition",
+                  "text": [
+                     "When you make an Arcana check or an ability check involving artisan's tools, you can roll a d4 and add the number rolled to the ability check."
+                  ]
+               },
+               {
+                  "name": "Ryder's Gift",
+                  "text": [
+                     "You gain proficiency with one type of artisan's tools of your choice."
+                  ]
+               },
+               {
+                  "name": "Spellsmith",
+                  "text": [
+                     "You know the mending cantrip. You can also cast the magic weapon spell with this trait. When you do so, the spell lasts for 1 hour and doesn't require concentration. Once you cast the spell with this trait, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for these spells."
+                  ]
+               }
+
+            ]
+         },
       ],
       "_version": "5"
    }
