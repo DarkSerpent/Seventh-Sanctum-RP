@@ -1742,9 +1742,273 @@ var racedata = {
                   ]
                },
                {
-                  "name": "Shapeshift",
+                  "name": "Languages",
                   "text": [
                      "You can speak, read, and write Common and Orc."
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Dhampir (Dayborn)",
+            "source": "Seventh Sanctum RP",
+            "size": "M",
+            "speed": "30",
+            "ability": "Con 1, Cha 2",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "Dhampirs mature at the same rate as humans, but can live for centuries."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "Dhampirs might not have an innate tendency toward evil, but many end up there. They are typically neutral."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Dhampirs are the same size and build as humans. Your size is medium."
+                  ]
+               },
+               {
+                  "name": "Darkvision",
+                  "text": [
+                     "Thanks to your heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+                  ]
+               },
+               {
+                  "name": "Vampiric Ancestry",
+                  "text": [
+                     "You have advantage on saving throws against diseases and being Charmed."
+                  ]
+               },
+               {
+                  "name": "Undead Resistance",
+                  "text": [
+                     "You have resistance to necrotic damage."
+                  ]
+               },
+               {
+                  "name": "Fangs",
+                  "text": [
+                     "You have fangs like a vampire. They are a natural weapon, which you can use to make unarmed strikes. If you hit, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+                  ]
+               },
+               {
+                  "name": "Blood Drinker",
+                  "text": [
+                     "As an action, you can make a special attack with your fangs. If the attack hits, you deal necrotic damage instead of piercing damage, and you heal hit points (minimum of 1) equal to your Constitution modifier, and you can’t use this trait again until you finish a short or long rest."
+                  ]
+               },
+               {
+                  "name": "Languages",
+                  "text": [
+                     "You can speak, read, and write Common and another language of your choice."
+                  ]
+               },
+               {
+                  "name": "Vampiric Talents",
+                  "text": [
+                     "You have proficiency in the Perception and Stealth skills."
+                  ]
+               },
+               {
+                  "name": "Misty Escape",
+                  "text": [
+                     "As a reaction to taking damage, you can create a 20-foot-radius sphere of fog centered on you. The sphere spreads around corners, and its area is heavily obscured. It lasts for one minute or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. Once you use this ability, you can't do so again until you finish a short or long rest."
+                  ]
+               },
+               {
+                  "name": "Kin of Mine",
+                  "text": [
+                     "Dhampir have a subrace dependent on the conditions of their birth. Choose one subrace from the following list: Dayborn, Nobleblood, Beastwalker."
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Dhampir (Nobleblood)",
+            "source": "Seventh Sanctum RP",
+            "size": "M",
+            "speed": "30",
+            "ability": "Int 1, Cha 2",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "Dhampirs mature at the same rate as humans, but can live for centuries."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "Dhampirs might not have an innate tendency toward evil, but many end up there. They are typically neutral."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Dhampirs are the same size and build as humans. Your size is medium."
+                  ]
+               },
+               {
+                  "name": "Superior Darkvision",
+                  "text": [
+                     "Thanks to your heritage, you have first-rate vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+                  ]
+               },
+               {
+                  "name": "Vampiric Ancestry",
+                  "text": [
+                     "You have advantage on saving throws against diseases and being Charmed."
+                  ]
+               },
+               {
+                  "name": "Undead Resistance",
+                  "text": [
+                     "You have resistance to necrotic damage."
+                  ]
+               },
+               {
+                  "name": "Fangs",
+                  "text": [
+                     "You have fangs like a vampire. They are a natural weapon, which you can use to make unarmed strikes. If you hit, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+                  ]
+               },
+               {
+                  "name": "Blood Drinker",
+                  "text": [
+                     "As an action, you can make a special attack with your fangs. If the attack hits, you deal necrotic damage instead of piercing damage, and you heal hit points (minimum of 1) equal to your Constitution modifier, and you can’t use this trait again until you finish a short or long rest."
+                  ]
+               },
+               {
+                  "name": "Languages",
+                  "text": [
+                     "You can speak, read, and write Common and another language of your choice."
+                  ]
+               },
+               {
+                  "name": "Sunlight Sensitivity",
+                  "text": [
+                     "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+                  ]
+               },
+               {
+                  "name": "Uncanny Climber",
+                  "text": [
+                     "You have advantage on any Strength (Athletics) check made to climb difficult surfaces."
+                  ]
+               },
+               {
+                  "name": "Dark Hospitality",
+                  "text": [
+                     "You have proficiency in one of the following skills: Deception, Intimidation, Persuasion."
+                  ]
+               },
+               {
+                  "name": "Vampiric Charm",
+                  "text": [
+                     "You can cast charm person with this trait, using Charisma as your spellcasting ability for it. Once you cast it, you can’t cast it again with this trait until you finish a short or long rest."
+                  ]
+               },
+               {
+                  "name": "Kin of Mine",
+                  "text": [
+                     "Dhampir have a subrace dependent on the conditions of their birth. Choose one subrace from the following list: Dayborn, Nobleblood, Beastwalker."
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Dhampir (Beastwalker)",
+            "source": "Seventh Sanctum RP",
+            "size": "M",
+            "speed": "30",
+            "ability": "Str 1, Cha 2",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "Dhampirs mature at the same rate as humans, but can live for centuries."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "Dhampirs might not have an innate tendency toward evil, but many end up there. They are typically neutral."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Dhampirs are the same size and build as humans. Your size is medium."
+                  ]
+               },
+               {
+                  "name": "Superior Darkvision",
+                  "text": [
+                     "Thanks to your heritage, you have first-rate vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+                  ]
+               },
+               {
+                  "name": "Vampiric Ancestry",
+                  "text": [
+                     "You have advantage on saving throws against diseases and being Charmed."
+                  ]
+               },
+               {
+                  "name": "Undead Resistance",
+                  "text": [
+                     "You have resistance to necrotic damage."
+                  ]
+               },
+               {
+                  "name": "Fangs",
+                  "text": [
+                     "You have fangs like a vampire. They are a natural weapon, which you can use to make unarmed strikes. If you hit, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+                  ]
+               },
+               {
+                  "name": "Blood Drinker",
+                  "text": [
+                     "As an action, you can make a special attack with your fangs. If the attack hits, you deal necrotic damage instead of piercing damage, and you heal hit points (minimum of 1) equal to your Constitution modifier, and you can’t use this trait again until you finish a short or long rest."
+                  ]
+               },
+               {
+                  "name": "Languages",
+                  "text": [
+                     "You can speak, read, and write Common and another language of your choice."
+                  ]
+               },
+               {
+                  "name": "Sunlight Sensitivity",
+                  "text": [
+                     "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+                  ]
+               },
+               {
+                  "name": "Vermin Speech",
+                  "text": [
+                     "You can cast animal friendship an unlimited number of times with this trait, but you can target only bats, rats, and wolves with it. Charisma is your spellcasting ability for this spell."
+                  ]
+               },
+               {
+                  "name": "Shapechanger",
+                  "text": [
+                     "If you aren't in sunlight, you can use your action to cast polymorph on yourself to transform into a bat, rat, or wolf. When cast in this way, polymorph requires no components and cannot be dispelled. It has the following changes:",
+                     "• Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours.",
+                     "• You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.",
+                     "Once you use this ability, you can't do so again until you finish a short or long rest."
+                  ]
+               },
+               {
+                  "name": "Kin of Mine",
+                  "text": [
+                     "Dhampir have a subrace dependent on the conditions of their birth. Choose one subrace from the following list: Dayborn, Nobleblood, Beastwalker."
                   ]
                }
             ]
