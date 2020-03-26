@@ -1647,6 +1647,108 @@ var racedata = {
                }
             ]
          },
+         {
+            "name": "Human (Base)",
+            "source": "Seventh Sanctum RP",
+            "size": "M",
+            "speed": "30",
+            "ability": "Str 1, Dex 1, Con 1, Int 1, Wis 1, Cha 1",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "Humans reach adulthood in their late teens and live less than a century."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "Humans tend toward no particular alignment. The best and the worst are found among them."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+                  ]
+               },
+               {
+                  "name": "Languages",
+                  "text": [
+                     "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on."
+                  ]
+               },
+               {
+                  "name": "Speed Step",
+                  "text": [
+                     "In combat, you can use a bonus action to immediately gain the benefits of the Dash action. You can only use this trait once per long rest."
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Orc (Base)",
+            "source": "Seventh Sanctum RP",
+            "size": "M",
+            "speed": "30",
+            "ability": "Str 2, Con 1, Int -2",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "Orcs reach adulthood at age 12 and live up to 50 years."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "The orcs of Kagreth are a passionate people, given to powerful emotion and deep faith. They are generally chaotic, but can be any alignment."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Orcs are usually over 6 feet tall and weigh between 230 and 280 pounds. Your size is Medium."
+                  ]
+               },
+               {
+                  "name": "Darkvision",
+                  "text": [
+                     "You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+                  ]
+               },
+               {
+                  "name": "Aggressive",
+                  "text": [
+                     "As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started."
+                  ]
+               },
+               {
+                  "name": "Menacing",
+                  "text": [
+                     "You are trained in the Intimidation skill."
+                  ]
+               },
+               {
+                  "name": "Powerful Build",
+                  "text": [
+                     "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+                  ]
+               },
+               {
+                  "name": "Savage Dissonance",
+                  "text": [
+                     "When you are reduced to 0 hit points, before you fall unconscious, you can use your reaction to make one melee attack against a creature within melee range. Once you use this trait, you can't use it again until you finish a short or long rest."
+                  ]
+               },
+               {
+                  "name": "Shapeshift",
+                  "text": [
+                     "You can speak, read, and write Common and Orc."
+                  ]
+               }
+            ]
+         },
       ],
       "_version": "5"
    }
