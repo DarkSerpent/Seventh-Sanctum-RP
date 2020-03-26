@@ -2068,66 +2068,50 @@ var racedata = {
                   ]
                },
                {
-                  "name": "Superior Darkvision",
+                  "name": "Multiarmed",
                   "text": [
-                     "Thanks to your heritage, you have first-rate vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+                     "All Vespids are born with 4 arms. Your two additional arms allow you to interact with an additional object or feature of the environment for free on your turn. You may not carry and use shields for defense with these additional arms. Nor do they grant you additional attacks, or allow you to wield weapons with them for combat."
                   ]
                },
                {
-                  "name": "Vampiric Ancestry",
+                  "name": "Flight",
                   "text": [
-                     "You have advantage on saving throws against diseases and being Charmed."
+                     "As part of a move action, a Vespidan can instead fly 30 feet, but must end their movement on the ground or a solid surface. A Vespidan who ends its turn in the air immediately plummets to the ground. To use this speed you can't be wearing heavy armor or be encumbered."
                   ]
                },
                {
-                  "name": "Undead Resistance",
+                  "name": "Carapace",
                   "text": [
-                     "You have resistance to necrotic damage."
-                  ]
-               },
-               {
-                  "name": "Fangs",
-                  "text": [
-                     "You have fangs like a vampire. They are a natural weapon, which you can use to make unarmed strikes. If you hit, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
-                  ]
-               },
-               {
-                  "name": "Blood Drinker",
-                  "text": [
-                     "As an action, you can make a special attack with your fangs. If the attack hits, you deal necrotic damage instead of piercing damage, and you heal hit points (minimum of 1) equal to your Constitution modifier, and you can’t use this trait again until you finish a short or long rest."
+                     "Your Carapace provides limited protection, and makes you accustomed to wearing armor. You can calculate your base AC as 11 + your Dexterity modifier while not wearing armor, and a shield’s benefits apply as normal while you use this AC. While wearing medium armor, your maximum Dexterity modifier bonus is increased by 1."
                   ]
                },
                {
                   "name": "Languages",
                   "text": [
-                     "You can speak, read, and write Common and another language of your choice."
+                     "You can speak, read, and write Common and Elven."
                   ]
                },
                {
-                  "name": "Sunlight Sensitivity",
+                  "name": "Magic Savant",
                   "text": [
-                     "You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+                     "After finishing a short or long rest you may choose one of the following spells: animal friendship, misty step, or shield. You may cast this chosen spell once without expending a spell slot. You regain the ability to choose and cast a spell in this manner after finishing a short or long rest. Charisma is your spellcasting ability for these spells."
                   ]
                },
                {
-                  "name": "Vermin Speech",
+                  "name": "Harmonic Casting",
                   "text": [
-                     "You can cast animal friendship an unlimited number of times with this trait, but you can target only bats, rats, and wolves with it. Charisma is your spellcasting ability for this spell."
+                     "When you cast a non-cantrip spell you may channel some of the magic into yourself or a creature you can see within 60 feet. The chosen creature gains temporary hit points equal to the spell's level plus your proficiency bonus. Creatures may only be affected by this trait once, after which they may be affected again after they finish a short or long rest."
                   ]
                },
                {
-                  "name": "Shapechanger",
+                  "name": "Gregarious",
                   "text": [
-                     "If you aren't in sunlight, you can use your action to cast polymorph on yourself to transform into a bat, rat, or wolf. When cast in this way, polymorph requires no components and cannot be dispelled. It has the following changes:",
-                     "• Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature’s bonus instead of yours.",
-                     "• You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.",
-                     "Once you use this ability, you can't do so again until you finish a short or long rest."
+                     "You have proficiency in the Persuasion skill. Giant Wasps you Charm will actively protect and fight for you."
                   ]
                },
-               {
-                  "name": "Kin of Mine",
+                  "name": "Those Within the Monarchy",
                   "text": [
-                     "Dhampir have a subrace dependent on the conditions of their birth. Choose one subrace from the following list: Dayborn, Nobleblood, Beastwalker."
+                     "Every Vespidian is born into a job, which is represented by their size, gender, and abilities. Choose a job from the following list: Drone, Worker, Queen."
                   ]
                }
             ]
