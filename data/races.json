@@ -2112,7 +2112,7 @@ var racedata = {
                {
                   "name": "Those Within the Monarchy",
                   "text": [
-                     "Every Vespidian is born into a job, which is represented by their size, gender, and abilities. Choose a job from the following list: Drone, Worker, Queen."
+                     "Every Vespidian is born into a job, which is represented by their size, gender, and abilities. Choose a job from the following list: Drone, Worker, or Queen."
                   ]
                }
             ]
@@ -2189,7 +2189,84 @@ var racedata = {
                {
                   "name": "Those Within the Monarchy",
                   "text": [
-                     "Every Vespidian is born into a job, which is represented by their size, gender, and abilities. Choose a job from the following list: Drone, Worker, Queen."
+                     "Every Vespidian is born into a job, which is represented by their size, gender, and abilities. Choose a job from the following list: Drone, Worker, or Queen."
+                  ]
+               }
+            ]
+         },
+         {
+            "name": "Vespidan (Worker)",
+            "source": "Seventh Sanctum RP",
+            "size": "S",
+            "speed": "30",
+            "climb": "20",
+            "ability": "Str1, Cha 1, choose Wis or Cha 1",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "All Vespids reach maturity at 12, beyond this workers live about as long as 75 years, drones as long as 350 years, and workers that become queens can live as long as 750 years."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "Vespidan societies are invariably highly structured and caste-based. They are almost always strongly lawful and usually lawful neutral as the good of the hive supersedes all other concerns. The exception are the hive- broken who are still often lawful by upbringing, but can easily stray into any form of thinking from there."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Workers and Drones are small sized, while Queens are medium sized."
+                  ]
+               },
+               {
+                  "name": "Multiarmed",
+                  "text": [
+                     "All Vespids are born with 4 arms. Your two additional arms allow you to interact with an additional object or feature of the environment for free on your turn. You may not carry and use shields for defense with these additional arms. Nor do they grant you additional attacks, or allow you to wield weapons with them for combat."
+                  ]
+               },
+               {
+                  "name": "Flight",
+                  "text": [
+                     "As part of a move action, a Vespidan can instead fly 30 feet, but must end their movement on the ground or a solid surface. A Vespidan who ends its turn in the air immediately plummets to the ground. To use this speed you can't be wearing heavy armor or be encumbered."
+                  ]
+               },
+               {
+                  "name": "Carapace",
+                  "text": [
+                     "Your Carapace provides limited protection, and makes you accustomed to wearing armor. You can calculate your base AC as 11 + your Dexterity modifier while not wearing armor, and a shield’s benefits apply as normal while you use this AC. While wearing medium armor, your maximum Dexterity modifier bonus is increased by 1."
+                  ]
+               },
+               {
+                  "name": "Languages",
+                  "text": [
+                     "You can speak, read, and write Common and Elven."
+                  ]
+               },
+               {
+                  "name": "Inspiring Queen",
+                  "text": [
+                     "You may use the Help action as a bonus action, for a number of times equal to your Proficiency bonus. You regain the ability to use the Help action this way after finishing a short or long rest. At level 3, when you use the Help action to aid an ally in attacking a creature, the target of that attack can be within 30 feet of you, rather than within 5 feet of you. Should the ally already have advantage, then it may add half your proficiency bonus (rounded up) to the attack's hit and damage roll instead."
+                  ]
+               },
+               {
+                  "name": "Sting",
+                  "text": [
+                     "Your sting is a natural weapon, which you can use to 4 make a unarmed strike with. If you hit with it, you deal piercing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. On a hit, you may choose to inject the target with your venom, after which you must spend a long rest before you can use your venom again.",
+                     "This venom causes the target to take 2d6 poison damage, and it must make a Constitution saving throw (DC: 10+ your Proficiency bonus+ your Strength modifier). On a failed save, it is also poisoned until the start of your next turn. The poison damage increases to 3d6 at 5th level. 4d6 at 10th level, 5d6 at 15th level, and 6d6 at 20th level."
+                  ]
+               },
+               {
+                  "name": "Insightful Monarch",
+                  "text": [
+                     "You have proficiency in the Insight skill, and advantage on saving throws to avoid being charmed."
+                  ]
+               },
+               {
+                  "name": "Those Within the Monarchy",
+                  "text": [
+                     "Every Vespidian is born into a job, which is represented by their size, gender, and abilities. Choose a job from the following list: Drone, Worker, or Queen."
                   ]
                }
             ]
