@@ -1438,6 +1438,63 @@ var racedata = {
 
             ]
          },
+         {
+            "name": "Human (Mark of Brykal)",
+            "source": "Seventh Sanctum RP",
+            "size": "M",
+            "speed": "30",
+            "ability": "Con 2, Wis 1",
+            "trait": [
+               {
+                  "name": "Age",
+                  "text": [
+                     "Humans reach adulthood in their late teens and live less than a century."
+                  ]
+               },
+               {
+                  "name": "Alignment",
+                  "text": [
+                     "After receiving a Mark from Ryder, the Lesser Deity of the Forge, Humans tend to manifest a lawful nature, even under less than ideal nuturing conditions."
+                  ]
+               },
+               {
+                  "name": "Size",
+                  "text": [
+                     "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+                  ]
+               },
+               {
+                  "name": "Languages",
+                  "text": [
+                     "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on."
+                  ]
+               },
+               {
+                  "name": "Sentinel's Intuition",
+                  "text": [
+                     "When you make a Wisdom (Insight) or Wisdom (Perception) check, you can roll a d4 and add the number rolled to the ability check."
+                  ]
+               },
+               {
+                  "name": "Guardian's Shield",
+                  "text": [
+                     "You can cast the shield spell once with this trait, and you regain the ability to cast it after you finish a long rest. Wisdom is your spellcasting ability for this spell."
+                  ]
+               },
+               {
+                  "name": "Vigilant Guardian",
+                  "text": [
+                     "When a creature you can see within 5 feet of you is hit by an attack roll, you can use your reaction to swap places with that creature, and you are hit by the attack instead. Once you use this trait, you can't do so again until you finish a long rest."
+                  ]
+               },
+               {
+                  "name": "Bound by the Duel",
+                  "text": [
+                     "You can cast the compelled duel spell with this trait. Once you cast the spell with this trait, you can't do so again until you finish a long rest. Wisdom is your spellcasting ability for this spell."
+                  ]
+               }
+            ]
+         },
       ],
       "_version": "5"
    }
