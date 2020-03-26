@@ -2109,6 +2109,7 @@ var racedata = {
                      "You have proficiency in the Persuasion skill. Giant Wasps you Charm will actively protect and fight for you."
                   ]
                },
+               {
                   "name": "Those Within the Monarchy",
                   "text": [
                      "Every Vespidian is born into a job, which is represented by their size, gender, and abilities. Choose a job from the following list: Drone, Worker, Queen."
