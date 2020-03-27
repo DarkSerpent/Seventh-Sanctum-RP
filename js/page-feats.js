@@ -1,10 +1,8 @@
 
 function parsesource (src) {
 	source = src;
-	if (source === "Player's Handbook") source = "PHB";
-	if (source === "Elemental Evil Player's Companion") source = "EEPC";
-	if (source === "Unearthed Arcana: Eberron") source = "UA Eberron";
-	if (source === "Unearthed Arcana: Feats") source = "UA Feats";
+	if (source === "Seventh Sanctum RP") source = "Seventh Sanctum";
+	if (source === "Orion: Stars of Waterdeep") source = "Orion";
 	return source;
 }
 
