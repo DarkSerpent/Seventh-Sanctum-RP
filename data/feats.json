@@ -134,7 +134,7 @@ var featdata = {
             "text": [
                "You have trained incredibly hard to master a the unique feature of half-nasods. You gain the following benefits:",
                "• Increase your Dexterity score by 1, to a maximum of 20.",
-               "• You increase your Energy Weapon uses per short or long rest to 2.",
+               "• You gain an additional charge of Energy Weapon. You regain both expended charges after a short or long rest.",
                "• When you activate your Energy Weapon racial trait, your current weapon also gains a reach of 10 feet."
             ]
          },
