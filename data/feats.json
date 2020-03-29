@@ -132,7 +132,7 @@ var featdata = {
             "source": "Seventh Sanctum RP",
             "prerequisite": "Half-Nasod",
             "text": [
-               "You have trained incredibly hard to master a the unique feature of half-nasods. You gain the following benefits:",
+               "You have trained incredibly hard to master the unique swordplay of the half-nasods. You gain the following benefits:",
                "• Increase your Dexterity score by 1, to a maximum of 20.",
                "• You gain an additional charge of Energy Weapon. You regain both expended charges after a short or long rest.",
                "• While Energy Weapon is active, your weapon also gains the reach property (10 feet)."
